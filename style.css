@@ -27,3 +27,7 @@ nav a{
     font-size: 22px; /*tamanho da fonte*/
     text-decoration: none;/* retirar o sublinhado do texto*/
 }
+img {
+    width: 100px;
+    height: 100px;
+}
