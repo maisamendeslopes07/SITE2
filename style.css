@@ -5,24 +5,24 @@ padding:20px 0;/* espaço em cima e embaixo do cabeçalho - espaço interno*/
 
 .caixa{
     position: relative;/*menu dentro da caixa*/
-    width: 1000px;/*largura da caixa*/
-    margin: 0 auto;
+    width: 940px;/*largura da caixa*/
+    margin: 0 auto;relative
 }
 
 nav{
     position: absolute;
     top: 110px;
-    right: 0;
+    right: 0 auto;relative
 
 }
 nav li{
     display: inline;
-    margin: 0 0 0 15px;/*espaçamento externo*/
+    margin: 0 0 0 15px;/*espaçamento interno*/
 }
 
 nav a{
     text-transform: uppercase; /* letras maiúsculas*/
-    color: rgb(255, 255, 255); /* cor das letras pretas*/
+    color:black (255, 255, 255); /* cor das letras pretas*/
     font-weight: bold; /* fonte negrito*/
     font-size: 22px; /*tamanho da fonte*/
     text-decoration: none;/* retirar o sublinhado do texto*/
