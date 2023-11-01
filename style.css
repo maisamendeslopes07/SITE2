@@ -11,13 +11,14 @@ padding:20px 0;/* espaço em cima e embaixo do cabeçalho - espaço interno*/
 
 nav{
     position: absolute;
-    top: 110px;
-    right: 0 auto;relative
-
+    top: 22px;
+    right: 283px;
 }
+
+
 nav li{
     display: inline;
-    margin: 0 0 0 15px;/*espaçamento interno*/
+    margin: 0 0 0 15px/*espaçamento interno*/
 }
 
 nav a{
